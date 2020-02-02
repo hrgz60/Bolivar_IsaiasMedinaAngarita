@@ -1,0 +1,9 @@
+var json_BOLIVAR_ISAIASMEDINAANGARITAMunicipio_Bolivar_Parroquia_Isaias_Medina_AngaritaIsaias_Medina_Angarita_Isoyetas_8 = {
+"type": "FeatureCollection",
+"name": "BOLIVAR_ISAIASMEDINAANGARITAMunicipio_Bolivar_Parroquia_Isaias_Medina_AngaritaIsaias_Medina_Angarita_Isoyetas_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "pk": "1", "id": "1", "estado": "Táchira", "precipitac": "1200", "fuente": "Instituto Geográfico de Venezuela Simón Geográficas-Sistema de Cuencas Hidrográficas" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -72.4254327864777, 7.640139570542083 ], [ -72.426401, 7.640875 ], [ -72.429567, 7.643311 ], [ -72.432738, 7.644985 ], [ -72.436034, 7.647041 ], [ -72.437174, 7.647938 ], [ -72.439711, 7.649353 ], [ -72.44072, 7.650631 ], [ -72.44223, 7.653183 ], [ -72.443489, 7.655224 ], [ -72.446629, 7.661344 ], [ -72.448413525961612, 7.665091314877963 ] ] ] } },
+{ "type": "Feature", "properties": { "pk": "2", "id": "2", "estado": "Táchira", "precipitac": "1200", "fuente": "Instituto Geográfico de Venezuela Simón Geográficas-Sistema de Cuencas Hidrográficas" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -72.408612893778994, 7.712252664338374 ], [ -72.414942, 7.712444 ], [ -72.419656, 7.712096 ], [ -72.421564, 7.712364 ], [ -72.424998, 7.712896 ], [ -72.428179, 7.7133 ], [ -72.435545, 7.71602 ], [ -72.437828, 7.717306 ], [ -72.441635, 7.719112 ], [ -72.443159, 7.719758 ], [ -72.448739, 7.722846 ], [ -72.45343, 7.725801 ], [ -72.455713, 7.727088 ], [ -72.457106, 7.728114 ], [ -72.45774, 7.728499 ], [ -72.459769, 7.729657 ], [ -72.462813, 7.73133 ], [ -72.464707, 7.73363 ], [ -72.466478, 7.735294 ], [ -72.467342, 7.739238 ], [ -72.469744, 7.741669 ], [ -72.471125, 7.744347 ], [ -72.471339257979892, 7.744809233849042 ] ] ] } }
+]
+}
